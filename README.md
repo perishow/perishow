@@ -3,9 +3,9 @@
 
 I'm an Computer Engineering student from UPE
 
-Skills: Java / C 
+Skills: Java / C / Python
 
-- 🌱 I’m currently learning Data Structures 
+- 🌱 I’m currently producing an academic article about temporal series forecasting
 - 📫 How to reach me: plm@poli.br 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: i really like blue lobsters. 
